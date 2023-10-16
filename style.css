@@ -1,6 +1,8 @@
-a[type="link"] {
-    color: red ;
+a[href^="https"]{
+    color:red ;
 }
+
+
 
 
 ul + p {
